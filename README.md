@@ -4,5 +4,5 @@ Author- Shapnom Parvin
 <hr>
 <p>Cloning a Repository</p>
 <br>
-![Image](https://github.com/user-attachments/assets/259bc825-5bec-4002-b4b0-2ae53405267e)
+![alt text](<Screenshot 2025-01-29 200836.png>)
 
