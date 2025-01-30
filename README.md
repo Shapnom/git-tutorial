@@ -1,6 +1,3 @@
 # git-tutorial
 Author- Shapnom Parvin
-<p> Some changes</p>
-<p> Some changes</p>
-<p>some change</p>
-<p>git push</p>
+<p>only change feature1</p>
